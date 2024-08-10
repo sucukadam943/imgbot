@@ -38,4 +38,4 @@ async def Photograph(ctx):
     else:
         await ctx.send("Gelmedi")
 
-bot.run("MTIxMzQwMTE0NDIzNjMxMDU1OA.GXxgSK.KblcXYOPAXMhgDtuqCvsJizfGdGD3-ZWVH5UxY")
+bot.run("Your-bot-key")
